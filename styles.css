@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.timer {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-right: 10px;
+}
